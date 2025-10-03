@@ -1,4 +1,4 @@
-# Go Heartbeat Pattern Demo
+# Go Heartbeat Pattern 
 
 A demonstration of the heartbeat pattern in Go, implementing best practices for monitoring long-running goroutines.
 
